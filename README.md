@@ -3,6 +3,14 @@ I'm a coding and technology fanatic. I've been in love with programming since th
 
 Right now I'm engrossed in a course where I'm learning the ins and outs of neural networks in TensorFlow, and how to code them from scratch.
 
+I am proficient in using:
+* Python
+* Java
+* JavaScript
+* HTML
+* PGP/GPG
+* Linux
+
 I've just started a GitHub page and will be uploading the projects I create here as I make them.
 <!---
 mcodepreneur/mcodepreneur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
