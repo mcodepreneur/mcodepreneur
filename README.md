@@ -5,6 +5,8 @@ Right now I'm engrossed in a course where I'm learning the ins and outs of neura
 
 I am proficient in using:
 * Python
+* NumPy
+* Pandas
 * Java
 * JavaScript
 * HTML
