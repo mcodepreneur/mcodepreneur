@@ -13,7 +13,7 @@ I am proficient in using:
 * PGP/GPG
 * Linux
 
-I've just started a GitHub page and will be uploading the projects I create here as I make them.
+I've just started a GitHub page and will be uploading the projects I create here as I make/find them.
 <!---
 mcodepreneur/mcodepreneur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
