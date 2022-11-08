@@ -3,7 +3,7 @@ I'm a coding and technology fanatic. I've been in love with programming and lear
 
 Right now I'm engrossed in a course where I'm learning the ins and outs of neural networks in TensorFlow, and how to code them from scratch.
 
-I am proficient in using:
+I like using:
 * Python
 * NumPy
 * Pandas
