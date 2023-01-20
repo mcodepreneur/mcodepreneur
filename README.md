@@ -1,17 +1,7 @@
 ### Hi! I'm Michael.
-I'm a coding and technology fanatic. I've been in love with programming and learning about coding since the day it was first introduced to me in the 6th grade.
+I'm a coding and technology fanatic. I've been in love with programming and learning about coding since the day it was first introduced to me in elementary school.
 
-Right now I'm engrossed in a course where I'm learning the ins and outs of neural networks in TensorFlow, and how to code them from scratch.
-
-I like using:
-* Python
-* NumPy
-* Pandas
-* Java
-* JavaScript
-* HTML
-* PGP/GPG
-* Linux
+Right now I'm engrossed in a course where I'm learning the ins and outs of neural networks in PyTorch, and how to code them from scratch.
 
 I've just started a GitHub page and will be uploading the projects I create here as I make/find them.
 <!---
