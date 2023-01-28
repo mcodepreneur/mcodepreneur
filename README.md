@@ -1,7 +1,5 @@
-### Hi! I'm Michael.
+### Hi! I'm Michael
 I'm a coding and technology fanatic. I've been in love with programming and learning about coding since the day it was first introduced to me in elementary school.
-
-Right now I'm engrossed in a course where I'm learning the ins and outs of neural networks in PyTorch, and how to code them from scratch.
 
 I've just started a GitHub page and will be uploading the projects I create here as I make/find them.
 <!---
